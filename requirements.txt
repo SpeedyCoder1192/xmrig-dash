@@ -1,0 +1,5 @@
+textual>=0.43.0
+psutil
+requests
+flask
+waitress
