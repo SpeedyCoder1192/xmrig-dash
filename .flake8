@@ -1,0 +1,10 @@
+[flake8]
+max-line-length = 200
+max-complexity = 15
+ignore =
+    E221,
+    E402,
+    E701,
+    E702,
+per-file-ignores =
+    xmrig_dash.py: E501
